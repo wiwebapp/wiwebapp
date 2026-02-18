@@ -43,7 +43,7 @@ Vous avez un projet en tête ? Parlons-en.
 
 - [www.wiwebapp.com](https://www.wiwebapp.com/#contact)
 - [contact@wiwebapp.com](mailto:contact@wiwebapp.com)
-- [Linkedin](https://linkedin.com/company/wiwebapp)
+- [LinkedIn](https://linkedin.com/company/wiwebapp)
 - [Instagram](https://instagram.com/wiwebapp)
 
 ---
