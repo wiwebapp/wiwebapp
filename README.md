@@ -2,7 +2,7 @@
 
 > *Je transforme vos idées en solutions digitales performantes.*
 
-J'accompagnons entrepreneurs et PME dans leur transformation digitale — 
+J'accompagne entrepreneurs et PME dans leur transformation digitale — 
 de la première esquisse au produit final déployé.
 
 ---
