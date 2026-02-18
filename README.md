@@ -1,13 +1,13 @@
 # Bienvenue chez WiWebApp 👋
 
-> *Nous transformons vos idées en solutions digitales performantes.*
+> *Je transforme vos idées en solutions digitales performantes.*
 
-Nous accompagnons entrepreneurs et PME dans leur transformation digitale — 
+J'accompagnons entrepreneurs et PME dans leur transformation digitale — 
 de la première esquisse au produit final déployé.
 
 ---
 
-## Ce que nous créons ✨
+## Ce que je crée ✨
 
 🎨 **Design UI/UX**
 Interfaces modernes, intuitives et pensées pour vos utilisateurs.
@@ -23,17 +23,17 @@ avec formation incluse.
 
 ---
 
-## Notre approche 🎯
+## Mon approche 🎯
 
-Nous ne faisons pas que coder.
+Je ne fais pas que coder.
 
-- Nous **écoutons** d'abord, pour bien comprendre votre vision.
-- Nous **concevons** ensuite, pour créer une expérience cohérente.
-- Nous **développons** enfin, avec rigueur et souci du détail.
+- J'**écoute** d'abord, pour bien comprendre votre vision.
+- Je **conçois** ensuite, pour créer une expérience cohérente.
+- Je **développe** enfin, avec rigueur et souci du détail.
 
-Ce qui nous différencie ? Une double compétence rare :
+Ce qui me différencie ? Une double compétence rare :
 **l'expertise technique ET la sensibilité design**, au service
-de solutions qui fonctionnent et qui impressionnent.
+de solutions qui fonctionnent.
 
 ---
 
