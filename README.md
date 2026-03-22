@@ -37,12 +37,6 @@ de solutions qui fonctionnent.
 
 ---
 
-## 📫 Me contacter
-
-[![Site web](https://img.shields.io/badge/wiwebapp.com-0F2318?style=flat&logo=google-chrome&logoColor=F8AD1E)](https://wiwebapp.com)
-[![Email](https://img.shields.io/badge/contact@wiwebapp.com-0F2318?style=flat&logo=gmail&logoColor=F8AD1E)](mailto:contact@wiwebapp.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F2318?style=flat&logo=linkedin&logoColor=F8AD1E)](https://linkedin.com/in/ton-prenom-nom)
-
 ## Travaillons ensemble 🚀
 
 Vous avez un projet en tête ? Parlons-en.
